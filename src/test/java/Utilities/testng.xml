@@ -3,9 +3,9 @@
 <suite name="Test Automation Demo">
   <test thread-count="5" name="Functional Testing">
   <parameter name="Browser" value="edge"></parameter>
-  <parameter name="Url" value="https://www.google.com/"></parameter>
+  <parameter name="Url" value="https://www.amazon.in/"></parameter>
     <classes>
-      <class name="TestScripts.TC_GoogleSearch_01"/>
+      <class name="TestScripts.SampleScreenshot"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
